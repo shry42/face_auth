@@ -1,7 +1,5 @@
 ## Demo App
 
-https://user-images.githubusercontent.com/113328135/236187813-6316bbbd-b9e8-4aa5-bfd8-597ad78dc2a8.mp4
-
 ### If you want to further explore this repo or try it for yourself locally make sure to follow these steps.
 
 - This app uses firebase as backend. All faces you register will be stored in the firestore.
